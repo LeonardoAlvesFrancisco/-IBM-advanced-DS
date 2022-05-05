@@ -34,4 +34,4 @@ ___
 * [Certificate]
 * [Presentation for Stakeholders]
 * [Presentations for peers]
-* [Video](https://www.youtube.com/watch?v=ddevws5KCjY&feature=youtu.be)
+* [Video]
